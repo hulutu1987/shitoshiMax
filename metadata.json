@@ -1,0 +1,8 @@
+{
+  "name": "amaoagou",
+  "description": "A minimalist, ad-free social platform with strict daily limits and a reputation-based economy designed to foster high-quality interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
